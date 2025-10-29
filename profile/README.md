@@ -10,14 +10,15 @@ Welcome to the YZLbot Open Source on GitHub! We're dedicated to developing and r
 
 ## Getting Started
 
-- If you want to use the services provided by bots, please **join [758502512](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-Pge39fIoWXs3-Ir3nACkrLx5l-45LPd)** (QQ group).
+- If you want to use the services provided by bots, please **join [758502512](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-Pge39fIoWXs3-Ir3nACkrLx5l-45LPd)** (QQ group) and [pd71986358](https://pd.qq.com/s/4zxdwcsto) (QQGuild).
 
   The list of bot accounts is as follows:
 
   | Uin        | Nickname        | Note         |
   | :--------- | :-------------- | :----------- |
-  | 255095409  | 乐正绫~✨        | Main account |
-  | 3654363824 | 乐正绫~✨ (0x02) | Test account |
+  | ~~255095409~~  | ~~乐正绫\~✨~~ | ~~Permanently banned~~ |
+  | 3654363824 | 乐正绫~✨ | Main account (QZone only) |
+  | 3889503222 | 乐正绫TwinkLing | Open platform API bot |
 
   You can find both of them in our QQ group.
 - If you want to contribute to our repositories, simply make a **Pull Request**.
